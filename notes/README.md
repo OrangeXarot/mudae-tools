@@ -1,5 +1,5 @@
 # Mudae Notes
-The script will generate commands you can use to re-add your notes after a reset. It will also display the current `$sm` in the order of your notes.
+The script will generate commands you can use to re-add your notes after a reset. It will also display the current `$sm note` in the order of your notes.
 
 ## Usage
 
