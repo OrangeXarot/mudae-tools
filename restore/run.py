@@ -33,7 +33,7 @@ def type_command(command):
     pyautogui.hotkey('ctrl', 'v')
     pyautogui.press('enter')
 
-file_path = 'list.txt'
+file_path = 'input.txt'
 print(f"{Fore.BLUE}Reading IDs from file: {file_path}{Style.RESET_ALL}")
 
 try:

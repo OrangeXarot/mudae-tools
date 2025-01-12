@@ -11,7 +11,7 @@ init()
 parser = argparse.ArgumentParser(description="Process and group notes with additional flags for automation and progress.")
 parser.add_argument('--auto', action='store_true', help="Automate the process and type commands automatically.")
 parser.add_argument('--perc', action='store_true', help="Print progress as percentage during execution.")
-parser.add_argument('--file', type=str, default='notes.txt', help="Input file containing notes.")
+parser.add_argument('--file', type=str, default='input.txt', help="Input file containing notes.")
 args = parser.parse_args()
 
 def chunk_list(lst, max_size):
