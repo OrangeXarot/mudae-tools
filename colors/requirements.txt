@@ -1,0 +1,5 @@
+colorama
+requests
+colorthief
+pyautogui
+pyperclip

@@ -19,3 +19,5 @@ To use this tool, ensure you have the following dependencies:
 - `colorama`
 - `pyautogui`
 - `pyperclip`
+
+You can install them with `pip install -r requirements.txt`

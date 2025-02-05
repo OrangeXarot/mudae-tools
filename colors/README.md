@@ -21,3 +21,5 @@ To use this tool, ensure you have the following dependencies:
 - `colorthief`
 - `pyautogui`
 - `pyperclip`
+
+You can install them with `pip install -r requirements.txt`
