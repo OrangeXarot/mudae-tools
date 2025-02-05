@@ -1,11 +1,4 @@
-:kakeraR:1. akira_kusui (769926034556452905) - 572843
-:kakeraR:2. funnysuperst56 (630139226612301834) - 518943
-:kakeraR:3. orangexarot (596420145639981059) - 307417
-:kakeraO:4. rez1194 (526835467866472469) - 251952
-:kakeraO:5. aliensalami (460004445950836746) - 237320
-:kakeraY:6. baamwithamonocle (742079618390949928) - 84151
-:kakera:7. senchan9777 (888906673765367809) - 258
-:kakera:8. manatoooo. (395578716668952582) - 220
-:kakera:9. dark_ray22 (470722773195554817) - 212
-:kakera:10. maurizioso (747190799351021569) - 189
-:kakera:11. obsidianing (1318543350118219806) - 174
+SAPMPLE INPUT (replace everything with yours):
+:kakeraR:1. user (id) - 572843
+:kakeraR:2. user2 (id2) - 518943
+:kakeraR:3. user3 (id3) - 307417
